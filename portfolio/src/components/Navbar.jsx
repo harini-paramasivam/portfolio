@@ -43,12 +43,6 @@ export default function Navbar() {
           ))}
         </ul>
 
-        <a
-          href="mailto:sanjaymit27@gmail.com"
-          className="hidden md:inline-block font-mono text-xs uppercase tracking-wide px-4 py-2 rounded-full border border-indigo/50 text-ink hover:bg-indigo/10 transition-colors"
-        >
-          Say hello
-        </a>
 
         <button
           className="md:hidden text-ink"
